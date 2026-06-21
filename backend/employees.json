@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1773922343121,
+    "name": "saman",
+    "department": "IT",
+    "salary": "40000",
+    "status": "Active"
+  },
+  {
+    "id": 1773922391558,
+    "name": "saman",
+    "department": "cs",
+    "salary": "40000",
+    "status": "Active"
+  },
+  {
+    "id": 1773925078748,
+    "name": "khan",
+    "department": "economics",
+    "salary": "50000",
+    "status": "Inactive"
+  },
+  {
+    "id": 1775137684046,
+    "name": "hashmi",
+    "department": "it",
+    "salary": "5000",
+    "status": "Inactive"
+  }
+]
