@@ -106,22 +106,6 @@ Quickly add a new employee through the dashboard.
 
 Remove employee records with a single click.
 
----
-
-
-
----
-
-## Screenshots
-
-Add screenshots inside a `screenshots` folder and update the paths below.
-
-```
-D:\6 projects\employee-dashboard\Screenshot (425).png
-
-```
-
----
 
 ## Performance
 
